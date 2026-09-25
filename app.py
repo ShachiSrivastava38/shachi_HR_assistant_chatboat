@@ -173,7 +173,7 @@ st.markdown(
 st.markdown(
     """
     <div class="hero">
-        <div class="hero-title">🤖 HR Assistant</div>
+        <div class="hero-title">🤖 HR Assistant Created By Shachi Srivastava </div>
         <div class="hero-subtitle">Your AI-powered Human Resources Support Desk</div>
         <div class="feature-row">
             <span class="feature-badge">Leave & Attendance</span>
@@ -239,7 +239,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 with st.sidebar:
-    st.markdown('<div class="sidebar-title">HR Assistant</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sidebar-title">HR Assistant Created By Shachi Srivastava</div>', unsafe_allow_html=True)
     st.markdown("<div class='sidebar-item'>I can help with:</div>", unsafe_allow_html=True)
     st.write("✅ Leave & Attendance")
     st.write("✅ Salary & Payroll")
