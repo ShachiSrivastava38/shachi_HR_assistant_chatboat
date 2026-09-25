@@ -6,7 +6,7 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title="HR Assistant",
+    page_title="HR Assistant Created By Shachi Srivastava",
     page_icon="🤖",
     layout="wide",
 )
